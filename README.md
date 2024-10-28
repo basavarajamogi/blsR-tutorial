@@ -1,6 +1,15 @@
 # blsR Tutorial
 This repository is a step-by-step guide for students on how to use the `blsR` package in R. The package enables easy access to data from the U.S. Bureau of Labor Statistics (BLS).
 
+## Table of Contents
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Setting Up Your BLS API Key](#setting-up-your-bls-api-key)
+- [Basic Usage](#basic-usage)
+- [Advanced Usage](#advanced-usage)
+- [Visualization](#visualization)
+
+
 ## Requirements
 - R (version 3.4 or higher)
 - API key from the BLS (for expanded data access)
