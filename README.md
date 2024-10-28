@@ -24,8 +24,8 @@ install.packages("blsR")
    - **Environment Setup**: Show students how to set the API key in their R environment (in `.Renviron` for long-term use).
 
 #### Example Instructions for API Key Setup
-```markdown
-### Setting Up Your BLS API Key
+
+## Setting Up Your BLS API Key
 1. Register at [BLS API](https://data.bls.gov/registrationEngine/) for a free API key.
 2. In R, set up the API key by editing the `.Renviron` file:
    ```R
